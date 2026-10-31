@@ -1,21 +1,21 @@
 # Milo for Android
 
-[Download Milo 1.2.0 APK](https://github.com/moozzy26/milo-android-installer/releases/download/v1.2.0/Milo-1.2.0.apk)
+[Download Milo 1.3.0 APK](https://github.com/moozzy26/milo-android-installer/releases/download/v1.3.0/Milo-1.3.0.apk)
 
-**No ChatGPT or GitHub account is needed to download or use Milo.** This repository contains the public installer and instructions only, with no personal records or signing keys.
+**No ChatGPT or GitHub account is needed to download or use Milo.** This repository contains only the installer and instructions, with no personal records or signing keys.
 
 1. Open the download link on your Android phone.
-2. Open `Milo-1.2.0.apk` from Downloads and tap **Install**. Allow installation from your browser if Android asks.
-3. Launch **Milo** from your app drawer. You do not need to open a website to use it.
+2. Open `Milo-1.3.0.apk` in Downloads and tap **Install**. Install over existing Milo; do not uninstall first.
+3. Launch **Milo** from your app drawer.
 
-If Milo is already installed, install over it to preserve its records; do not uninstall it first. The APK uses the same signing certificate as version 1.1.0.
+## My money
 
-## What's new
+The new design brings salary received, daily spending, money remaining, a savings goal, money-flow bars, and recent activity together. Add income defaults to Salary. Tap Add expense to log daily spending, Edit goal to change your target, or a recent entry to edit it. Future earnings and partial payments remain available separately.
 
-Money now has four focused sections: **Overview**, **Activity**, **Incoming**, and **Goals**. See received income, spending, unpaid payments, your budget, and savings progress. Log your day remains in Activity; partial payments and unpaid gigs are in Incoming.
+## Voice that saves clearly
 
-Tap **Speak** and say “I spent 20 today on food.” Clear commands save automatically with **Undo**. “Remind me tomorrow at 9 am to call Sam” creates a reminder. If the time is missing, reply “at 9 am.” Ambiguous amounts, missing details, and currency mismatches ask for clarification. Use the app's configured currency; Milo does not convert currencies.
+Tap Speak to add money, then the microphone. Say “My salary is 5000 today” or “I spent 20 on food today.” Review the filled-in details and tap **Save income** or **Save expense**. A confirmation appears only after saving; **Undo** reverses the change. You can type a command and tap Review command, too. Missing or ambiguous details can be corrected before saving.
 
-Records stay on your phone unless you export/share a backup. Maps opens an external map app/browser. English speech uses your phone's speech service, which may process audio online. Milo stores no audio. Commands also support tasks, saved places, received income, and future earnings; they do not make calls or send messages.
+The phone’s English speech service may process audio online. Milo stores no audio. Records remain on the device unless you export/share a backup. Maps opens an external map app/browser and may require internet. The savings goal is a planning calculation, not a bank transfer.
 
-Requires Android 7 or later. Enable notifications and precise alarms in Milo Settings. Download `SHA256SUMS-1.2.0.txt` from the release to verify the APK.
+Requires Android 7 or later. Enable notifications and precise alarms in Settings for reminders. The signing certificate matches earlier Milo releases. `SHA256SUMS-1.3.0.txt` verifies the installer.
